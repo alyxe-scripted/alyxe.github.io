@@ -1,0 +1,24 @@
+.row-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.row-mid {
+    display: flex;
+    justify-content: center;
+}
+.headshot {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   
+}
+
+.row aboutme {
+    display: flex;
+    justify-content: center;
+}
+.row-contact {
+    display: flex;
+    justify-content: space-around;
+}
