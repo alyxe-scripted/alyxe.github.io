@@ -14,11 +14,16 @@
    
 }
 
-.row aboutme {
+.row-aboutme {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .row-contact {
     display: flex;
     justify-content: space-around;
+}
+ 
+#background {
+    align-items: center;
 }
